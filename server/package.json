@@ -6,7 +6,8 @@
     "node": "^20.2.0",
     "nodemon": "^2.0.22"
   },
-  "scripts": {
-    "start":"npm serve index.js"
-  }
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
 }
